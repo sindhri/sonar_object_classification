@@ -31,4 +31,4 @@ The final accuracy for the reduced but deeper net is 88.05% (8.57%), 83.68% (6.4
 ## experimenting with a 4-layer deep net
 The final accuracy for the reduced but deeper net is 84.59% (9.89%), 87.54% (6.42%)， not better
 
-## conclusion, the best prediction is standardized with a deeper net
+## conclusion, the best prediction is standardized with 3 layers
